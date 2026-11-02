@@ -1,0 +1,13 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.FreeStuffDeveloper.MyLifeApp",
+      "sha256_cert_fingerprints": [
+        "C7:69:8B:73:92:79:2A:DA:33:63:50:0A:4F:56:E4:40:95:8C:E6:CC:95:E2:BA:22:76:E2:2B:60:15:0C:01:AA",
+        "E2:47:E5:1B:11:BB:3C:74:ED:2D:3A:20:6C:FF:F0:90:79:8C:C9:67:1A:82:B9:D8:BA:7A:31:C9:4A:D3:FC:42"
+      ]
+    }
+  }
+]
